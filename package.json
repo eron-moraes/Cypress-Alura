@@ -10,5 +10,8 @@
   "license": "MIT",
   "devDependencies": {
     "cypress": "^12.17.2"
+  },
+  "dependencies": {
+    "mochawesome": "^7.1.3"
   }
 }
